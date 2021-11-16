@@ -5,7 +5,7 @@ This portfolio contains the following projects
 
 ### Using Foursquare API to Determine the Best Neighborhoods in NYC to Open an Italian Restaurant
 
-
+Italian restaurants were clustered by neighborhood and their overall ratings were examined to determine where there was a high demand that was being adequately satisfied. Demand was determined based on the number of restaurants in a given neighborhood. Neighborhoods that contained more than 3 Italian restaurants were determined to have a high demand. Satisfaction was determined based on the overall rating of Italian restaunrants in a given neighborhood. Those with ratings below 8.0 were considered to be unsatisfactory. 
 
 ## Data Visualization
 
