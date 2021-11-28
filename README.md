@@ -11,7 +11,7 @@ Italian restaurants were clustered by neighborhood and their overall ratings wer
 
 ### University of Michigan Men's Athletics Program Records by Year
 
-The win/loss records of the 4 major sports programs at the University of Michigan are examined.
+The win/loss records of the 4 major sports programs at the University of Michigan are examined. Records were pulled from Wikipedia using the requests package and then they were converted to data frames using pandas. Data visualization created using matplotlib with widget added to add/remove plots from the figure. 
 
 ### Trends in Data Science
-Over 25,000 respondents were asked a series of questions regarding which technologies they current use, those that they desire to use in the future, and general demographic questions such as age, gender, education level, etc.
+Over 25,000 respondents were asked a series of questions regarding which technologies they current use, those that they desire to use in the future, and general demographic questions such as age, gender, education level, etc. Dashboards created using IBM Cognos and Tableau Public.
